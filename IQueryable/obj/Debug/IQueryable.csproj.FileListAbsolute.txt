@@ -1,0 +1,10 @@
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\IQueryable.exe.config
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\IQueryable.exe
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\IQueryable.pdb
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\obj\Debug\IQueryable.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\obj\Debug\IQueryable.exe
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\obj\Debug\IQueryable.pdb
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\EntityFramework.dll
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\EntityFramework.xml
+c:\users\aleks\documents\visual studio 2013\Projects\IQueryable\IQueryable\bin\Debug\EntityFramework.SqlServer.xml
